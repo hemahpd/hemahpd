@@ -3,7 +3,8 @@
 Hi, I'm Hema Priya Dharshini. I am an aspiring programmer who is interested in learning new skills that seems interesting to me.
 🌱 I’m currently learning Machine Learning and working on developing small webpages.
 
-Find more about me <a href="https://hemahpd.in/">here</a>
+Find more about me and my blog <a href="https://hemahpd.in/">here.</a>
+
 
 
 <!--
