@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, World!! 👋
+
+Hi, I'm Hema Priya Dharshini. I am an aspiring programmer who is interested in learning new skills that seems interesting to me.
+🌱 I’m currently learning Machine Learning and working on developing small webpages.
+
+Find more about me <a href="https://hemahpd.in/">here</a>
+
 
 <!--
 **hemahpd/hemahpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
