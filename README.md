@@ -1,12 +1,15 @@
 ### Hello, World!! 👋
 
-Hi, I'm Hema Priya Dharshini. I am an aspiring programmer who is interested in learning new skills that seems interesting to me.
+Hi, I'm Hema Priya Dharshini.
+<br>
+I am an aspiring programmer who is interested in learning new skills that seems interesting to me.
 <br>
 🌱 Currently learning Machine Learning.
 <br>
 🔭 Developing small webpages.
 
 Find more about me and my blog <a href="https://hemahpd.in/">here.</a>
+I do sketch images. Find them on my <a href="https://www.instagram.com/hema_hpd/">instagram</a> posts.
 
 
 
