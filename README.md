@@ -4,9 +4,8 @@ Hi, I'm Hema Priya Dharshini.
 <br>
 I am an aspiring programmer who is interested in learning new skills that seems interesting to me.
 <br>
-🌱 Currently learning Machine Learning.
 <br>
-🔭 Developing small webpages.
+🔭 Developing small webapps.
 
 Find more about me and my blog <a href="https://hemahpd.in/">here.</a>
 <br>
