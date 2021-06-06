@@ -5,7 +5,8 @@ Hi, I'm Hema Priya Dharshini.
 I am an aspiring programmer who is interested in learning new skills that seems interesting to me.
 <br>
 <br>
-🔭 Developing small webapps.
+🔭 Developing small webapps using <strong>DJANGO</strong> framework
+
 
 Find more about me and my blog <a href="https://hemahpd.in/">here.</a>
 <br>
