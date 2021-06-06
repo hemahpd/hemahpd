@@ -5,6 +5,8 @@ Hi, I'm Hema Priya Dharshini.
 I am an aspiring programmer who is interested in learning new skills that seems interesting to me.
 <br>
 <br>
+🌱 Budding web developer⚡
+<br>
 🔭 Learning and developing small webapps using <strong>DJANGO</strong> framework
 
 
