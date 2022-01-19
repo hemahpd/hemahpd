@@ -14,7 +14,7 @@ Find more about me and my blog <a href="https://hemahpd.in/">here.</a>
 <br>
 I do sketch images. Find them on my <a href="https://www.instagram.com/hema_hpd/">instagram</a> posts.
 
-Also find me on <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hemahpd" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hemahpd?trk=profile-badge">linkedin</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hemahpd" data-version="v1">Also find me on <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hemahpd?trk=profile-badge">linkedin</a></div>
               
 
 
