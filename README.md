@@ -9,7 +9,7 @@ I am an aspiring programmer who is interested in learning new skills that seems 
 <br>
 🔭 I’m currently learning and working on AWS cloud, monitoring tools and CI/CD tools.
 <br>
-🔭 Learning and developing small webapps using <strong>DJANGO</strong> framework
+
 
 
 
